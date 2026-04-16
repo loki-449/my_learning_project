@@ -1,0 +1,14 @@
+{
+    "name": "learn-claude-code",
+    "version": "1.0.0",
+    "description": "Using DeepSeek API with Anthropic protocol",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "dotenv": "^16.4.5",
+      "openai": "^4.0.0"
+    }
+  }
